@@ -64,15 +64,17 @@
 
 Here are the people who contributed to the creation of this project.
 
-| Student ID | Name | Learning Path | Contact |
-| :---: | :---: | :---: | :---: |
-| M218B4KX0174 | Agnes Sura Pati Sinaga | Machine Learning | <a href="https://www.linkedin.com/in/agnessurapatisinaga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-| M180B4KX0685 | Aryasaty Kirana Tungga Maheswari |  Machine Learning  |            <a href="https://www.linkedin.com/in/aryasatykirana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>             |
-| M013B4KX1650 | Gusti Ayu Putu Erika Erlina |  Machine Learning  | <a href="https://www.linkedin.com/in/gusti-ayu-putu-erika-erlina-2105a5219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-| A013B4KY1243 | Eko Kurniawan | Mobile Development | <a href="https://www.linkedin.com/in/eko-kurnia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>               |
-| A388B4KY3689 | Rangga Felicia Fulfian | Mobile Development | <a href="https://www.linkedin.com/in/ranggafeliciafulfian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>          |
-| C013B4KX3183 | Nabila Naurotul Ummah | Cloud Computing | <a href="https://www.linkedin.com/in/nabila-naurotul-338558284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>       |
-| C621B4KY3277 | Naufal Adhi Ramadhan | Cloud Computing | <a href="https://linkedin.com/in/naufaladhiramadhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>             |
+<div align="center">
+  | Student ID | Name | Learning Path | Contact |
+  | :---: | :---: | :---: | :---: |
+  | M218B4KX0174 | Agnes Sura Pati Sinaga | Machine Learning | <a href="https://www.linkedin.com/in/agnessurapatisinaga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+  | M180B4KX0685 | Aryasaty Kirana Tungga Maheswari |  Machine Learning  |            <a href="https://www.linkedin.com/in/aryasatykirana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>             |
+  | M013B4KX1650 | Gusti Ayu Putu Erika Erlina |  Machine Learning  | <a href="https://www.linkedin.com/in/gusti-ayu-putu-erika-erlina-2105a5219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
+  | A013B4KY1243 | Eko Kurniawan | Mobile Development | <a href="https://www.linkedin.com/in/eko-kurnia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>               |
+  | A388B4KY3689 | Rangga Felicia Fulfian | Mobile Development | <a href="https://www.linkedin.com/in/ranggafeliciafulfian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>          |
+  | C013B4KX3183 | Nabila Naurotul Ummah | Cloud Computing | <a href="https://www.linkedin.com/in/nabila-naurotul-338558284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>       |
+  | C621B4KY3277 | Naufal Adhi Ramadhan | Cloud Computing | <a href="https://linkedin.com/in/naufaladhiramadhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>             |
+</div>
 
 ## <a name="more">🚀 More</a>
 
